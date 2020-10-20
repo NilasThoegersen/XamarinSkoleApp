@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUcDoqmrPDtXukcOZsyMr18VkcXf3rEBvDJpyR0gl8FAoiEM3zx3ezagXheb4GXkNZQ2vJHl53HfNXWsJcRJPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nilas\\source\\repos\\RadioApp\\RadioApp.iOS\\RadioApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nilas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

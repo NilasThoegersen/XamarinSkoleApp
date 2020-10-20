@@ -1,0 +1,17 @@
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\bin\Debug\netstandard2.0\RadioApp.deps.json
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\bin\Debug\netstandard2.0\RadioApp.dll
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\bin\Debug\netstandard2.0\ref\RadioApp.dll
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\bin\Debug\netstandard2.0\RadioApp.pdb
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\RadioApp.csprojAssemblyReference.cache
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\RadioApp.AssemblyInfoInputs.cache
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\RadioApp.AssemblyInfo.cs
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\RadioApp.dll
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\ref\RadioApp.dll
+C:\Users\Nilas\source\repos\RadioApp\RadioApp\obj\Debug\netstandard2.0\RadioApp.pdb
